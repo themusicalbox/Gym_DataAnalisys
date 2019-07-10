@@ -1,0 +1,287 @@
+{
+    "input_dir": "../dati/190613/",
+    "output_dir": "../results/190613/190613_03/",
+    "data_settings": {
+        "amplification": 0.5,
+        "start_time": 3e-6,
+        "offset": -0.02084083654628993,
+        "tension_interval": [
+            -7,
+            8
+        ],
+        "MW_source": "740",
+        "columns": [
+            0,
+            1,
+            2
+        ],
+        "resistance": 268
+    },
+    "probe_parameters": {
+        "L": 0.01125,
+        "d": 0.002
+    },
+    "binning": {
+        "zones": [
+            -40,
+            "max"
+        ],
+        "bins": [
+            601
+        ]
+    },
+    "fitting": {
+        "n_iter": 50,
+        "step": 1
+    },
+    "datasets": [
+        {
+            "id": "190613162",
+            "pos": 0,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613163",
+            "pos": 5,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613164",
+            "pos": 10,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613165",
+            "pos": 15,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613166",
+            "pos": 20,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613167",
+            "pos": 25,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613168",
+            "pos": 30,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613169",
+            "pos": 35,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613170",
+            "pos": 40,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613171",
+            "pos": 45,
+            "B": 640,
+            "pressure": 1.52e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613172",
+            "pos": 50,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613173",
+            "pos": 55,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613174",
+            "pos": 60,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613175",
+            "pos": 65,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613176",
+            "pos": 70,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613177",
+            "pos": 75,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613178",
+            "pos": 80,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613179",
+            "pos": 85,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613180",
+            "pos": 90,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613181",
+            "pos": 95,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613182",
+            "pos": 100,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613183",
+            "pos": 105,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613184",
+            "pos": 110,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613185",
+            "pos": 115,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613186",
+            "pos": 120,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613187",
+            "pos": 125,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613188",
+            "pos": 130,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613189",
+            "pos": 135,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613190",
+            "pos": 140,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613191",
+            "pos": 145,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        },
+        {
+            "id": "190613192",
+            "pos": 148.9,
+            "B": 640,
+            "pressure": 1.53e-4,
+            "power": 0.50,
+            "ramp_filter": false
+        }
+    ]
+}
